@@ -5,11 +5,7 @@ body{font-family: 'Poppins', sans-serif!important}
 .h-container{height: 790px}
 .mlr-100{margin: 0 7.8%; margin-top: 3%}
 .ml-100{margin-left: 7.8%}
-.col-3.5, .col-8.5{  position: relative;
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;}
-.round-shape{width: 92%; padding-bottom: 100%; background-color: #FFEEDE; border-radius: 50%; position: absolute; position: relative; left: 22.1%; bottom: 30%; position: fixed;z-index: -1; overflow: hidden}
+.round-shape{width: 92%; padding-bottom: 100%; background-color: #FFEEDE; border-radius: 50%; position: absolute; position: relative; left: 22.1%; bottom: 30%; position: fixed;z-index: -1; overflow: hidden; opacity}
 .navbar-brand{margin-bottom: 0.80%}
 .header-menu{
 font-weight: 500;
@@ -39,11 +35,22 @@ a{text-decoration: none!important}
 .mt-12{margin-top: 12px}
 .mb-28{margin-bottom: 28px}
 .pr-13{padding-right: 5%!important}
-#order{color:black!important;font-weight: bold;font-size: 13px;line-height: 19px;border-radius: 69px; padding: 14px 41px}
+.order{color:white;font-weight: bold;font-size: 13px;line-height: 19px;border-radius: 69px; padding: 14px 41px}
 .btn-down{padding: 20px; background-color:#FF922C; border-radius: 50%}
 .prev, .next{padding: 8px 14px!important; border-radius: 50%!important;color: white!important}
 .z-index-1{z-index: -1}
 .infor-food{display: none}
+.color-green{color: #54BF29}.background-green{background: #54BF29}
+.color-orange{color: #FF922C}.background-orange{background: #FF922C}
+.color-pink{color: #FFC3D8}.background-pink{background: #FFC3D8}
+.color-bleu{color: #C0DAE5}.background-bleu{background: #C0DAE5}
+.color-purple{color: #8C30F5}.background-purple{background: #8C30F5}
+.color-brown{color: #F8B73A}.background-brown{background: #F8B73A}
+.color-bleu-blue{color: #5BC89F}.background-bleu-blue{background: #5BC89F}
+.color-black{color: #333333}.background-black{background: #333333}
+.color-gray{color: #828282}.background-gray{background: #828282}
+.color-blue{color: #2F80ED}.background-blue{background: #2F80ED}
+.img-ellipse{bottom: 0%; left: 26%}
 .img-mini-food{width: 12%; border-radius: 50%;box-shadow: 0px 20.5257px 40.2959px rgba(0, 0, 0, 0.11);}
 .img-food{width: 35%;position: absolute; left: 32%; top: -225px; box-shadow: 0px 20.5257px 40.2959px rgba(0, 0, 0, 0.11); border-radius: 50%}
 .circle {
